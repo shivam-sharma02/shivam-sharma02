@@ -19,7 +19,6 @@
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio" />
   <img src="https://img.shields.io/badge/OOP-007396?style=flat&logo=oopython&logoColor=white" alt="OOP" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" alt="Firebase" />
-  <!-- Add more badges for your skills and tools -->
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000"/>
