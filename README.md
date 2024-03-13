@@ -14,6 +14,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Kotlin-E24462?style=flat&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/API-FF5733?style=flat&logo=api&logoColor=white" alt="API" />
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white" alt="Android Studio" />
